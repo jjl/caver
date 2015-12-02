@@ -1,0 +1,7 @@
+* Add toggles:
+** Hidden files
+* Hook up directory navigation
+* Side panel
+* Keyboard navigation
+* Move everything to custom signals
+** Pending pgi upstream
